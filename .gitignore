@@ -1,0 +1,11 @@
+src/cfg.*
+.vscode/*
+cp/*
+data/*
+datax/*
+*.ipynb
+*.zip
+*.parquet
+_spark_metadata
+*.pyc
+*__pycache__
